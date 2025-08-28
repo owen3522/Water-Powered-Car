@@ -19,18 +19,18 @@
 
 <h2>Designs</h2>
 <p align="center">
-Default view of the chassis model and drawing<b/>
+Default view of the chassis model and drawing<br/>
 <img src="https://i.postimg.cc/rmNxyqWX/image.png" height=80% width=80%/>
 <img src="https://i.postimg.cc/Wb3gjL1C/image.png" height=80% width=80%/>
 <br />
 <br />
-Default view of the wheel and axle using a male connection for a square joint<b/>
+Default view of the wheel and axle using a male connection for a square joint<br/>
 <img src="https://i.postimg.cc/FzfrWZhW/image.png" height=80% width=80%/>
 <br />
 <br />
-Bottom view of the wheel and axle using a male connection for a square joint<b/>
+Bottom view of the wheel and axle using a male connection for a square joint<br/>
 <img src="https://i.postimg.cc/9XSF4vBv/image.png" height=80% width=80%/>
 <br />
 <br />
-Drawing of the wheel and axle using a male connection for a square joint<b/>
+Drawing of the wheel and axle using a male connection for a square joint<br/>
 <img src="https://i.postimg.cc/VLCsXDG5/image.png" height=80% width=80%/>
