@@ -1,7 +1,7 @@
 <h1>Water Powered Car - Introduction to Engineering II</h1>
 
 <h2>Project Task</h2>
-- <b>Design and build a car whose sole source of power will be water stored in a two-liter plastic soda bottle</b>
+<b>Design and build a car whose sole source of power will be water stored in a two-liter plastic soda bottle.</b>
 
 <h2>Project Constraints</h2>
 
