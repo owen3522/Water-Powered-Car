@@ -69,7 +69,8 @@ Drawing of the assembly<br/>
 <img src="https://i.postimg.cc/nzqrp2yX/image.png" height=80% width=80%/>
 <br />
 <br />
-Final printed and assembled car<br/>
+<h2>Final Product</h2>
+<p align="center">
 <img src="https://i.postimg.cc/BnM1zJDX/image.png" height=80% width=80%/>
 
 
